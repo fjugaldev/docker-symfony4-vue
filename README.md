@@ -4,7 +4,7 @@ Symfony 4 skeleton con VueJS, Vuex, Vue-router y Webpack.
 Todo configurado dentro de un entorno Docker (NGINX + PHP-FM + MySQL + Redis)
 
 ## ¿Qué incluye?
--Symfony 4.1.6 skeleton
+-Symfony 4.2 skeleton
 
 -Twig, Annotations, Webserver y Maker bundle
 
